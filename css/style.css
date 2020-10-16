@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.col-left {
+    width: 30%;
+    height: 700px;
+    float: left;
+    background-color: rgb(198, 253, 248) ;
+}
+.col-left-top {
+    width: 30%;
+    height: 700px;
+    float: left;
+    background-color: rgb(198, 253, 248) ;
+}
+
+.mainContent {
+    width: 70%;
+    height: 700px;
+    float: left;
+    background-color:tomato ;
+}
+.petTitle{ font-weight: bold;
+}
+.stats {font-weight: normal;
+}
+nav {
+    height: 50px;
+}
+.navItem {display: inline-block}
